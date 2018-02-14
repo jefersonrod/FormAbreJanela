@@ -1,0 +1,13 @@
+C:\bkp\OneDrive\src\FormAbreJanela\FormAbreJanela\bin\Debug\FormAbreJanela.exe.config
+C:\bkp\OneDrive\src\FormAbreJanela\FormAbreJanela\bin\Debug\FormAbreJanela.exe
+C:\bkp\OneDrive\src\FormAbreJanela\FormAbreJanela\bin\Debug\FormAbreJanela.pdb
+C:\bkp\OneDrive\src\FormAbreJanela\FormAbreJanela\obj\Debug\FormAbreJanela.csprojResolveAssemblyReference.cache
+C:\bkp\OneDrive\src\FormAbreJanela\FormAbreJanela\obj\Debug\FormAbreJanela.Cadastrar.resources
+C:\bkp\OneDrive\src\FormAbreJanela\FormAbreJanela\obj\Debug\FormAbreJanela.Form1.resources
+C:\bkp\OneDrive\src\FormAbreJanela\FormAbreJanela\obj\Debug\FormAbreJanela.Properties.Resources.resources
+C:\bkp\OneDrive\src\FormAbreJanela\FormAbreJanela\obj\Debug\FormAbreJanela.csproj.GenerateResource.Cache
+C:\bkp\OneDrive\src\FormAbreJanela\FormAbreJanela\obj\Debug\FormAbreJanela.exe
+C:\bkp\OneDrive\src\FormAbreJanela\FormAbreJanela\obj\Debug\FormAbreJanela.pdb
+C:\bkp\OneDrive\src\FormAbreJanela\FormAbreJanela\obj\Debug\FormAbreJanela.Apagar.resources
+C:\bkp\OneDrive\src\FormAbreJanela\FormAbreJanela\obj\Debug\FormAbreJanela.Atualizar.resources
+C:\bkp\OneDrive\src\FormAbreJanela\FormAbreJanela\obj\Debug\FormAbreJanela.Listar.resources
